@@ -322,10 +322,10 @@
 ---
 
 # Tài liệu tham khảo
-- [CommonMark Specification:](https://spec.commonmark.org/0.31.2/) Tiêu chuẩn cơ bản của Markdown, được thiết kế để đảm bảo tính nhất quán giữa các trình biên dịch Markdown.
+- [CommonMark Specification](https://spec.commonmark.org/0.31.2/): Tiêu chuẩn cơ bản của Markdown, được thiết kế để đảm bảo tính nhất quán giữa các trình biên dịch Markdown.
 
-- [Markdown Guide:](https://www.markdownguide.org/) Hướng dẫn chi tiết từ cơ bản đến nâng cao, với các ví dụ thực tế.
+- [Markdown Guide](https://www.markdownguide.org/): Hướng dẫn chi tiết từ cơ bản đến nâng cao, với các ví dụ thực tế.
 
-- [GitHub Flavored Markdown (GFM):](https://github.github.com/gfm/) Tài liệu chính thức của GitHub về các mở rộng Markdown hỗ trợ bởi GitHub.
+- [GitHub Flavored Markdown (GFM)](https://github.github.com/gfm/): Tài liệu chính thức của GitHub về các mở rộng Markdown hỗ trợ bởi GitHub.
 
 #### Bạn có thể luyện tập viết Markdown trên VS Code, với nhiều tuỳ chọn extension tiện ích hỗ trợ. Bạn có thể bắt đầu bằng việc tạo mới một file markdown, sử dụng tổ hợp phím `Ctrl + Shift + V` để mở chế độ Preview Markdown ngay trên VS Code.
