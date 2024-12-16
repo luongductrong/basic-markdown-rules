@@ -94,6 +94,7 @@
 
 - **Blockquote:** Use `>` for quotes.
 - **Inline code:** Use `` `code` ``.
+- **Code block:** Use three backticks ` ``` ` to create code blocks.
 
 > This is a blockquote.
 
@@ -257,6 +258,7 @@
 
 - **Blockquote:** Dùng `>` để trích dẫn.
 - **Code inline:** Dùng `` `code` ``.
+- **Code block:** Dùng ba dấu ` ``` `.
 
 > Đây là một blockquote.
 
